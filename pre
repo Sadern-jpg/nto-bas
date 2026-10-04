@@ -1,1 +1,47 @@
+========================================
+        BANDIT — ПАРОЛИ И ЗАМЕТКИ
+========================================
+=== bandit2 ===
+Пароль: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+Команда: ssh bandit2@bandit.labs.overthewire.org -p 2220
+
+=== bandit3 ===
+Пароль: 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+Команда: ssh bandit3@bandit.labs.overthewire.org -p 2220
+
+=== bandit4 ===
+Пароль: xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+Команда: ssh bandit4@bandit.labs.overthewire.org -p 2220
+
+=== bandit5 ===
+Пароль: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+Команда: ssh bandit5@bandit.labs.overthewire.org -p 2220
+
+=== bandit6 ===
+Пароль: pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+Команда: ssh bandit6@bandit.labs.overthewire.org -p 2220
+
+=== bandit7 ===
+Пароль: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+Команда: ssh bandit7@bandit.labs.overthewire.org -p 2220
+
+=== bandit8 ===
+Пароль: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+Команда: ssh bandit8@bandit.labs.overthewire.org -p 2220
+
+=== bandit9 ===
+Пароль: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+Команда: ssh bandit9@bandit.labs.overthewire.org -p 2220
+
+=== bandit10 ===
+Пароль: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+Команда: ssh bandit10@bandit.labs.overthewire.org -p 2220
+
+=== bandit11 ===
+Пароль: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+Команда: ssh bandit11@bandit.labs.overthewire.org -p 2220
+
+=== bandit12 ===
+Пароль:
+Команда: ssh bandit12@bandit.labs.overthewire.org -p 2220
 
